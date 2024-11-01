@@ -14,6 +14,9 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
         </div>
 </div> <br><br>
+<div align= "center">
+<h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Solved.ac ✨ </h3> 
+<div align= "center">
 <p align="center">
     <a href="https://solved.ac/sukunz1228">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sukunz1228">
