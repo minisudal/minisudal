@@ -22,7 +22,9 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sukunz1228">
     </a>
     <img src="http://mazandi.herokuapp.com/api?handle=sukunz1228&theme=warm"/>
-</p>
+</p><br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminisudal%2Fhit-counter&count_bg=%23FFE2E2&title_bg=%23FFBFBF&icon=aerlingus.svg&icon_color=%236FE368&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
 
 <!--
