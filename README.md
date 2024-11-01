@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdbff8,100:ffd894&height=180&text=Hello!%20I'm%20Sugyeong🦦&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdbff8,100:ffd894&height=200&text=Hello!%20I'm%20Sugyeong🦦&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
 <div align= "center">
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💫 Contact me 💫 </h3>
